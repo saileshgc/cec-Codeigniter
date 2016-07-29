@@ -1,0 +1,56 @@
+/* CSS Document */
+
+/*#pagination
+{
+	margin-top:10px;
+	font-size:11px;
+	font-weight:bold;
+
+}
+
+#pagination a 
+{ 
+	margin:0px 5px;
+	border-right:#999999 solid 1px;
+	border-bottom:#999999 solid 1px;
+	padding:5px;
+} 
+
+#pagination a:hover { text-decoration:none;  } 
+
+#pagination strong{
+	background:#395B80;
+	color:#FFFFFF;
+	font-weight:bold;
+	border-right:#222222 solid 1px;
+	border-bottom:#222222 solid 1px;
+	padding:5px;
+}*/
+
+#pagination{
+	border-top: 1px solid #e1e9dd;
+	border-bottom: 1px solid #e1e9dd;
+	margin: 0 0 18px 0;
+	height: 27px;
+}
+.pager{
+	float: right;
+	color: #666;
+	font-size: 13px;
+	line-height: 25px;
+}
+.pager a{
+	color: #663366;
+	text-decoration: none;
+}
+.pager a:hover{
+	text-decoration: underline;
+}
+.tInfo{
+	color: #666;
+	font-size: 13px;
+	line-height: 25px;
+	padding: 0 0 0 2px;
+	float: left;
+
+}
